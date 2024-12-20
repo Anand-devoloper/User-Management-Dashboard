@@ -1,0 +1,46 @@
+form {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  form h2 {
+    margin-bottom: 15px;
+  }
+  
+  form div {
+    margin-bottom: 10px;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  form input, form select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  form button {
+    padding: 8px 15px;
+    margin-right: 5px;
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+  }
+  #edit{
+    background-color: green;
+    color: white;
+  }
+  #delete{
+
+    background-color: red;
+    color: white;  
+}
